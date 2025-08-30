@@ -5,7 +5,7 @@ Extensive ReVanced builder originally made by [j-hc](https://github.com/j-hc/rev
 
 ## Features
  * Supports current [ReVanced](https://github.com/ReVanced/revanced-patches) and [ReVanced Extended](https://github.com/inotia00/revanced-patches) patches.
- * Automatically builds optimized modules and `apk` files in a daily basis.
+ * Automatically builds optimized modules and `apk` files on a daily basis.
 
 ## To include/exclude patches or patch other apps
 
