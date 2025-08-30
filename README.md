@@ -1,7 +1,7 @@
 # ReVanced Magisk Module
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
-Extensive ReVanced builder originally made by [j-hc](https://github.com/j-hc/revanced-magisk-module). Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach apps from the Play Store if you are using magisk modules. 
+Extensive ReVanced builder originally made by [**j-hc**](https://github.com/j-hc/revanced-magisk-module). Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach apps from the Play Store if you are using magisk modules. 
 
 ## Features
  * Supports current [ReVanced](https://github.com/ReVanced/revanced-patches) and [ReVanced Extended](https://github.com/inotia00/revanced-patches) patches.
